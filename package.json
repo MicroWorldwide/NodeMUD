@@ -1,0 +1,11 @@
+{
+  "name": "NodeMUD",
+  "version": "0.0.1",
+  "description": "A MUD Server created with the help of Node.JS",
+  "main": "server.js",
+  "repository": "",
+  "author": "Fly-Man- <fly.man.opensim@gmail.com>",
+  "dependencies": {
+    "socket.io": "~0.9.14"
+  }
+}
